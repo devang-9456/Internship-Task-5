@@ -27,7 +27,7 @@ Capture live network packets, identify basic protocols, and analyze traffic gene
    - DNS, TLS/SSL, TCP.
 
 7. **Exported .pcap File**
-   - Saved as `task5_capture.pcap`.
+   - Saved as `Trace 5.pcap`.
 
 8. **Summary & Analysis**
    - Observed encrypted HTTPS traffic with TLS handshake details.
